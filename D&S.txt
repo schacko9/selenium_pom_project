@@ -1,0 +1,11 @@
+kubectl create -f selenium-hub-deployment.yaml
+kubectl create -f selenium-hub-svc.yaml
+kubectl create -f selenium-node-chrome-deployment.yaml
+kubectl create -f selenium-node-edge-deployment.yaml
+kubectl create -f selenium-node-firefox-deployment.yaml
+
+kubectl delete deployment selenium-hub
+kubectl delete deployment selenium-hub-svc
+kubectl delete deployment selenium-node-chrome
+kubectl delete deployment selenium-node-edge
+kubectl delete deployment selenium-node-firefox
