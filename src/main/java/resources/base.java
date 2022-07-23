@@ -103,22 +103,22 @@ public class base {
 	
 	
 	public void click(WebElement locator) {
-		WebDriverWait wait = new WebDriverWait(getDriver(), 25);
+		WebDriverWait wait = new WebDriverWait(getDriver(), 30);
         wait.until(ExpectedConditions.elementToBeClickable(locator)).click();
 	}
 	
 	public void sendKeys(WebElement locator, String text) {
-		WebDriverWait wait = new WebDriverWait(getDriver(), 25);
+		WebDriverWait wait = new WebDriverWait(getDriver(), 30);
         wait.until(ExpectedConditions.visibilityOf(locator)).sendKeys(text);
 	}
 	
 	public String get_Text(WebElement locator) {
-		WebDriverWait wait = new WebDriverWait(getDriver(), 25);
+		WebDriverWait wait = new WebDriverWait(getDriver(), 30);
         wait.until(ExpectedConditions.visibilityOf(locator));
         return locator.getText();
 	}
 	public int get_Size(List<WebElement> locator) {
-		WebDriverWait wait = new WebDriverWait(getDriver(), 25);
+		WebDriverWait wait = new WebDriverWait(getDriver(), 30);
         wait.until(ExpectedConditions.visibilityOfAllElements(locator));
         return locator.size();
 	}
