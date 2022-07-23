@@ -1,0 +1,470 @@
+21:11:29.959 [main] INFO  resources.base - AppTitle: Driver is Initialized
+21:16:57.194 [main] INFO  resources.base - AppTitle: Driver is Initialized
+21:17:01.073 [main] INFO  resources.base - AppTitle: Navigated to Home Page
+21:17:08.257 [main] INFO  resources.base - AppTitle: Driver Teardown
+21:22:26.679 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+21:22:45.289 [main] INFO  resources.base - AppNavBar: Navigated to Home Page
+21:22:45.640 [main] INFO  resources.base - AppNavBar: Test completed
+21:22:45.898 [main] INFO  resources.base - AppNavBar: Driver Teardown
+10:42:44.488 [main] INFO  resources.base - AppTitle: Driver is Initialized
+11:05:13.266 [TestNG-tests-1] INFO  resources.base - AppTitle: Driver is Initialized
+11:05:32.012 [TestNG-tests-1] INFO  resources.base - AppTitle: Navigated to Home Page
+11:05:42.824 [TestNG-tests-1] INFO  resources.base - AppTitle: Driver Teardown
+12:14:25.278 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+12:14:43.194 [main] INFO  resources.base - AppNavBar: Navigated to Home Page
+12:15:04.706 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+12:15:23.122 [main] INFO  resources.base - AppNavBar: Navigated to Home Page
+12:15:23.283 [main] INFO  resources.base - AppNavBar: Test completed
+12:15:35.323 [main] INFO  resources.base - AppTitle: Driver is Initialized
+12:15:53.305 [main] INFO  resources.base - AppTitle: Navigated to Home Page
+12:16:22.376 [main] INFO  resources.base - AppTitle: Driver is Initialized
+12:16:40.386 [main] INFO  resources.base - AppTitle: Navigated to Home Page
+13:49:48.368 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+13:50:06.495 [main] INFO  resources.base - AppNavBar: Navigated to Home Page
+13:50:06.641 [main] INFO  resources.base - AppNavBar: Test completed
+13:51:25.006 [main] INFO  resources.base - AppTitle: Driver is Initialized
+13:51:42.767 [main] INFO  resources.base - AppTitle: Navigated to Home Page
+13:52:05.848 [main] INFO  resources.base - AppTitle: Driver is Initialized
+13:53:37.580 [main] INFO  resources.base - AppTitle: Navigated to Home Page
+14:10:36.089 [main] INFO  resources.base - AppTitle: Driver is Initialized
+14:10:40.637 [main] INFO  resources.base - AppTitle: Navigated to Home Page
+14:11:14.066 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+14:11:17.918 [main] INFO  resources.base - AppNavBar: Navigated to Home Page
+14:11:28.152 [main] INFO  resources.base - AppNavBar: Test completed
+14:11:50.207 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+14:11:57.454 [main] INFO  resources.base - AppNavBar: Navigated to Home Page
+14:12:00.966 [main] INFO  resources.base - AppNavBar: Test completed
+14:12:39.133 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+14:12:57.053 [main] INFO  resources.base - AppNavBar: Navigated to Home Page
+14:12:57.409 [main] INFO  resources.base - AppNavBar: Test completed
+14:13:34.506 [main] INFO  resources.base - BasePage: Driver is Initialized
+14:14:07.404 [main] INFO  resources.base - BasePage: Navigated to Home Page
+14:14:10.686 [main] INFO  resources.base - Restrcited User
+14:14:11.884 [main] INFO  resources.base - BasePage: Test Complete
+14:14:13.914 [main] INFO  resources.base - BasePage: Driver is Initialized
+14:14:27.522 [main] INFO  resources.base - BasePage: Navigated to Home Page
+14:14:30.837 [main] INFO  resources.base - Non restricted user
+14:14:32.018 [main] INFO  resources.base - BasePage: Test Complete
+14:16:35.428 [main] INFO  resources.base - AppTitle: Driver is Initialized
+14:16:53.632 [main] INFO  resources.base - AppTitle: Navigated to Home Page
+14:21:21.065 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+14:21:25.637 [main] INFO  resources.base - AppNavBar: Navigated to Home Page
+14:21:31.862 [main] INFO  resources.base - AppNavBar: Test completed
+14:22:24.676 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+14:23:32.833 [main] INFO  resources.base - AppNavBar: Navigated to Home Page
+14:23:33.185 [main] INFO  resources.base - AppNavBar: Test completed
+14:25:01.222 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+14:25:12.584 [main] INFO  resources.base - AppNavBar: Navigated to Home Page
+14:25:12.877 [main] INFO  resources.base - AppNavBar: Test completed
+14:26:08.589 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+14:26:26.533 [main] INFO  resources.base - AppNavBar: Navigated to Home Page
+14:26:26.818 [main] INFO  resources.base - AppNavBar: Test completed
+17:12:34.463 [TestNG-tests-1] INFO  resources.base - BasePage: Driver is Initialized
+17:12:42.733 [TestNG-tests-1] INFO  resources.base - BasePage: Navigated to Home Page
+17:12:51.621 [TestNG-tests-2] INFO  resources.base - AppNavBar: Driver is Initialized
+17:13:04.495 [TestNG-tests-1] INFO  resources.base - Restrcited User
+17:13:06.330 [TestNG-tests-1] INFO  resources.base - BasePage: Test Complete
+17:13:11.656 [TestNG-tests-1] INFO  resources.base - BasePage: Driver is Initialized
+17:13:39.725 [TestNG-tests-2] INFO  resources.base - AppNavBar: Navigated to Home Page
+17:13:40.260 [TestNG-tests-2] INFO  resources.base - AppNavBar: Test completed
+17:13:55.065 [TestNG-tests-1] INFO  resources.base - BasePage: Navigated to Home Page
+17:13:58.151 [TestNG-tests-1] INFO  resources.base - Non restricted user
+17:13:59.113 [TestNG-tests-1] INFO  resources.base - BasePage: Test Complete
+17:14:01.669 [TestNG-tests-1] INFO  resources.base - AppTitle: Driver is Initialized
+17:15:08.664 [TestNG-tests-1] INFO  resources.base - BasePage: Driver is Initialized
+17:15:58.288 [TestNG-tests-1] INFO  resources.base - BasePage: Navigated to Home Page
+17:16:01.563 [TestNG-tests-1] INFO  resources.base - Restrcited User
+17:16:02.702 [TestNG-tests-1] INFO  resources.base - BasePage: Test Complete
+17:16:04.943 [TestNG-tests-1] INFO  resources.base - BasePage: Driver is Initialized
+17:16:22.511 [TestNG-tests-1] INFO  resources.base - BasePage: Navigated to Home Page
+17:16:25.786 [TestNG-tests-1] INFO  resources.base - Non restricted user
+17:16:26.972 [TestNG-tests-1] INFO  resources.base - BasePage: Test Complete
+17:16:29.132 [TestNG-tests-1] INFO  resources.base - AppTitle: Driver is Initialized
+17:17:02.479 [TestNG-tests-1] INFO  resources.base - AppTitle: Navigated to Home Page
+17:17:05.597 [TestNG-tests-1] INFO  resources.base - AppNavBar: Driver is Initialized
+17:17:38.880 [TestNG-tests-1] INFO  resources.base - AppNavBar: Navigated to Home Page
+17:17:54.066 [TestNG-tests-1] INFO  resources.base - AppNavBar: Test completed
+17:25:09.249 [TestNG-tests-1] INFO  resources.base - BasePage: Driver is Initialized
+17:25:14.894 [TestNG-tests-2] INFO  resources.base - BasePage: Driver is Initialized
+17:25:29.505 [TestNG-tests-1] INFO  resources.base - BasePage: Navigated to Home Page
+17:25:33.896 [TestNG-tests-1] INFO  resources.base - Restrcited User
+17:25:35.881 [TestNG-tests-1] INFO  resources.base - BasePage: Test Complete
+17:25:49.856 [TestNG-tests-2] INFO  resources.base - BasePage: Navigated to Home Page
+17:25:52.123 [TestNG-tests-1] INFO  resources.base - BasePage: Driver is Initialized
+17:25:56.665 [TestNG-tests-2] INFO  resources.base - Restrcited User
+17:25:59.308 [TestNG-tests-2] INFO  resources.base - BasePage: Test Complete
+17:26:08.518 [TestNG-tests-2] INFO  resources.base - BasePage: Driver is Initialized
+17:26:10.050 [TestNG-tests-1] INFO  resources.base - BasePage: Navigated to Home Page
+17:26:14.170 [TestNG-tests-1] INFO  resources.base - Non restricted user
+17:26:15.831 [TestNG-tests-1] INFO  resources.base - BasePage: Test Complete
+17:26:21.792 [TestNG-tests-1] INFO  resources.base - AppTitle: Driver is Initialized
+17:26:39.317 [TestNG-tests-1] INFO  resources.base - AppTitle: Navigated to Home Page
+17:26:51.529 [TestNG-tests-1] INFO  resources.base - AppNavBar: Driver is Initialized
+17:26:58.588 [TestNG-tests-2] INFO  resources.base - BasePage: Navigated to Home Page
+17:27:03.058 [TestNG-tests-2] INFO  resources.base - Non restricted user
+17:27:04.723 [TestNG-tests-2] INFO  resources.base - BasePage: Test Complete
+17:27:08.467 [TestNG-tests-2] INFO  resources.base - AppTitle: Driver is Initialized
+17:27:24.888 [TestNG-tests-1] INFO  resources.base - AppNavBar: Navigated to Home Page
+17:27:25.346 [TestNG-tests-1] INFO  resources.base - AppNavBar: Test completed
+17:27:42.995 [TestNG-tests-2] INFO  resources.base - AppTitle: Navigated to Home Page
+17:27:53.387 [TestNG-tests-2] INFO  resources.base - AppNavBar: Driver is Initialized
+17:28:28.053 [TestNG-tests-2] INFO  resources.base - AppNavBar: Navigated to Home Page
+17:28:28.605 [TestNG-tests-2] INFO  resources.base - AppNavBar: Test completed
+17:55:38.899 [TestNG-tests-1] INFO  resources.base - BasePage: Driver is Initialized
+17:55:41.284 [TestNG-tests-3] INFO  resources.base - BasePage: Driver is Initialized
+17:55:46.735 [TestNG-tests-2] INFO  resources.base - BasePage: Driver is Initialized
+17:55:59.707 [TestNG-tests-1] INFO  resources.base - BasePage: Navigated to Home Page
+17:56:03.854 [TestNG-tests-1] INFO  resources.base - Restrcited User
+17:56:05.438 [TestNG-tests-3] INFO  resources.base - BasePage: Navigated to Home Page
+17:56:05.547 [TestNG-tests-1] INFO  resources.base - BasePage: Test Complete
+17:56:06.960 [TestNG-tests-2] INFO  resources.base - BasePage: Navigated to Home Page
+17:56:09.399 [TestNG-tests-3] INFO  resources.base - Restrcited User
+17:56:11.190 [TestNG-tests-3] INFO  resources.base - BasePage: Test Complete
+17:56:11.464 [TestNG-tests-2] INFO  resources.base - Restrcited User
+17:56:12.764 [TestNG-tests-2] INFO  resources.base - BasePage: Test Complete
+17:56:20.394 [TestNG-tests-1] INFO  resources.base - BasePage: Driver is Initialized
+17:56:20.653 [TestNG-tests-3] INFO  resources.base - BasePage: Driver is Initialized
+17:56:25.327 [TestNG-tests-2] INFO  resources.base - BasePage: Driver is Initialized
+17:56:38.176 [TestNG-tests-1] INFO  resources.base - BasePage: Navigated to Home Page
+17:56:39.842 [TestNG-tests-3] INFO  resources.base - BasePage: Navigated to Home Page
+17:56:41.823 [TestNG-tests-1] INFO  resources.base - Non restricted user
+17:56:43.377 [TestNG-tests-1] INFO  resources.base - BasePage: Test Complete
+17:56:43.772 [TestNG-tests-3] INFO  resources.base - Non restricted user
+17:56:45.080 [TestNG-tests-2] INFO  resources.base - BasePage: Navigated to Home Page
+17:56:45.306 [TestNG-tests-3] INFO  resources.base - BasePage: Test Complete
+17:56:48.925 [TestNG-tests-2] INFO  resources.base - Non restricted user
+17:56:50.480 [TestNG-tests-1] INFO  resources.base - AppTitle: Driver is Initialized
+17:56:50.763 [TestNG-tests-2] INFO  resources.base - BasePage: Test Complete
+17:56:50.791 [TestNG-tests-3] INFO  resources.base - AppTitle: Driver is Initialized
+17:57:07.237 [TestNG-tests-2] INFO  resources.base - AppTitle: Driver is Initialized
+17:57:09.560 [TestNG-tests-3] INFO  resources.base - AppTitle: Navigated to Home Page
+17:57:20.132 [TestNG-tests-3] INFO  resources.base - AppNavBar: Driver is Initialized
+17:57:24.454 [TestNG-tests-1] INFO  resources.base - AppTitle: Navigated to Home Page
+17:57:26.769 [TestNG-tests-2] INFO  resources.base - AppTitle: Navigated to Home Page
+17:57:34.975 [TestNG-tests-1] INFO  resources.base - AppNavBar: Driver is Initialized
+17:57:37.860 [TestNG-tests-3] INFO  resources.base - AppNavBar: Navigated to Home Page
+17:57:37.912 [TestNG-tests-2] INFO  resources.base - AppNavBar: Driver is Initialized
+17:57:38.773 [TestNG-tests-3] INFO  resources.base - AppNavBar: Test completed
+17:57:52.812 [TestNG-tests-1] INFO  resources.base - AppNavBar: Navigated to Home Page
+17:57:53.130 [TestNG-tests-1] INFO  resources.base - AppNavBar: Test completed
+17:57:56.216 [TestNG-tests-2] INFO  resources.base - AppNavBar: Navigated to Home Page
+17:57:57.222 [TestNG-tests-2] INFO  resources.base - AppNavBar: Test completed
+17:58:35.504 [TestNG-tests-1] INFO  resources.base - BasePage: Driver is Initialized
+17:58:35.678 [TestNG-tests-3] INFO  resources.base - BasePage: Driver is Initialized
+17:58:40.050 [TestNG-tests-2] INFO  resources.base - BasePage: Driver is Initialized
+17:58:48.388 [TestNG-tests-3] INFO  resources.base - BasePage: Navigated to Home Page
+17:58:52.483 [TestNG-tests-3] INFO  resources.base - Restrcited User
+17:58:53.696 [TestNG-tests-1] INFO  resources.base - BasePage: Navigated to Home Page
+17:58:54.054 [TestNG-tests-3] INFO  resources.base - BasePage: Test Complete
+17:58:58.918 [TestNG-tests-2] INFO  resources.base - BasePage: Navigated to Home Page
+17:59:04.735 [TestNG-tests-2] INFO  resources.base - Restrcited User
+17:59:05.583 [TestNG-tests-3] INFO  resources.base - BasePage: Driver is Initialized
+17:59:07.488 [TestNG-tests-2] INFO  resources.base - BasePage: Test Complete
+17:59:13.722 [TestNG-tests-1] INFO  resources.base - Restrcited User
+17:59:16.113 [TestNG-tests-1] INFO  resources.base - BasePage: Test Complete
+17:59:20.179 [TestNG-tests-1] INFO  resources.base - BasePage: Driver is Initialized
+18:01:24.792 [TestNG-tests-1] INFO  resources.base - BasePage: Driver is Initialized
+18:01:25.172 [TestNG-tests-3] INFO  resources.base - BasePage: Driver is Initialized
+18:01:31.335 [TestNG-tests-2] INFO  resources.base - BasePage: Driver is Initialized
+18:01:38.828 [TestNG-tests-3] INFO  resources.base - BasePage: Navigated to Home Page
+18:01:39.803 [TestNG-tests-1] INFO  resources.base - BasePage: Navigated to Home Page
+18:01:43.168 [TestNG-tests-3] INFO  resources.base - Restrcited User
+18:01:43.886 [TestNG-tests-1] INFO  resources.base - Restrcited User
+18:01:45.004 [TestNG-tests-3] INFO  resources.base - BasePage: Test Complete
+18:01:45.735 [TestNG-tests-1] INFO  resources.base - BasePage: Test Complete
+18:01:50.406 [TestNG-tests-2] INFO  resources.base - BasePage: Navigated to Home Page
+18:01:53.629 [TestNG-tests-1] INFO  resources.base - BasePage: Driver is Initialized
+18:01:54.059 [TestNG-tests-3] INFO  resources.base - BasePage: Driver is Initialized
+18:01:55.448 [TestNG-tests-2] INFO  resources.base - Restrcited User
+18:01:59.027 [TestNG-tests-2] INFO  resources.base - BasePage: Test Complete
+18:02:10.194 [TestNG-tests-2] INFO  resources.base - BasePage: Driver is Initialized
+18:02:14.256 [TestNG-tests-3] INFO  resources.base - BasePage: Navigated to Home Page
+18:02:17.774 [TestNG-tests-3] INFO  resources.base - Non restricted user
+18:02:19.447 [TestNG-tests-3] INFO  resources.base - BasePage: Test Complete
+18:02:23.632 [TestNG-tests-3] INFO  resources.base - AppTitle: Driver is Initialized
+18:02:41.464 [TestNG-tests-3] INFO  resources.base - AppTitle: Navigated to Home Page
+18:02:44.571 [TestNG-tests-2] INFO  resources.base - BasePage: Navigated to Home Page
+18:02:48.498 [TestNG-tests-2] INFO  resources.base - Non restricted user
+18:02:49.908 [TestNG-tests-2] INFO  resources.base - BasePage: Test Complete
+18:02:53.607 [TestNG-tests-3] INFO  resources.base - AppNavBar: Driver is Initialized
+18:02:56.740 [TestNG-tests-1] INFO  resources.base - BasePage: Navigated to Home Page
+18:02:58.588 [TestNG-tests-2] INFO  resources.base - AppTitle: Driver is Initialized
+18:03:03.938 [TestNG-tests-1] INFO  resources.base - Non restricted user
+18:03:05.673 [TestNG-tests-1] INFO  resources.base - BasePage: Test Complete
+18:03:08.201 [TestNG-tests-1] INFO  resources.base - AppTitle: Driver is Initialized
+18:03:10.422 [TestNG-tests-2] INFO  resources.base - AppTitle: Navigated to Home Page
+18:03:11.916 [TestNG-tests-3] INFO  resources.base - AppNavBar: Navigated to Home Page
+18:03:13.352 [TestNG-tests-3] INFO  resources.base - AppNavBar: Test completed
+18:03:25.678 [TestNG-tests-2] INFO  resources.base - AppNavBar: Driver is Initialized
+18:03:26.618 [TestNG-tests-1] INFO  resources.base - AppTitle: Navigated to Home Page
+18:03:38.265 [TestNG-tests-1] INFO  resources.base - AppNavBar: Driver is Initialized
+18:03:51.854 [TestNG-tests-2] INFO  resources.base - AppNavBar: Navigated to Home Page
+18:03:52.545 [TestNG-tests-2] INFO  resources.base - AppNavBar: Test completed
+18:04:11.206 [TestNG-tests-1] INFO  resources.base - AppNavBar: Navigated to Home Page
+18:04:11.647 [TestNG-tests-1] INFO  resources.base - AppNavBar: Test completed
+18:23:13.463 [TestNG-tests-1] INFO  resources.base - BasePage: Driver is Initialized
+18:23:13.496 [TestNG-tests-3] INFO  resources.base - BasePage: Driver is Initialized
+18:23:19.505 [TestNG-tests-2] INFO  resources.base - BasePage: Driver is Initialized
+18:23:47.831 [TestNG-tests-1] INFO  resources.base - BasePage: Navigated to Home Page
+18:23:50.447 [TestNG-tests-3] INFO  resources.base - BasePage: Navigated to Home Page
+18:23:51.992 [TestNG-tests-1] INFO  resources.base - Restrcited User
+18:23:53.609 [TestNG-tests-1] INFO  resources.base - BasePage: Test Complete
+18:23:54.271 [TestNG-tests-2] INFO  resources.base - BasePage: Navigated to Home Page
+18:23:54.437 [TestNG-tests-3] INFO  resources.base - Restrcited User
+18:23:56.203 [TestNG-tests-3] INFO  resources.base - BasePage: Test Complete
+18:23:56.710 [TestNG-tests-1] INFO  resources.base - BasePage: Driver is Initialized
+18:23:59.307 [TestNG-tests-2] INFO  resources.base - Restrcited User
+18:24:00.938 [TestNG-tests-2] INFO  resources.base - BasePage: Test Complete
+18:24:11.746 [TestNG-tests-3] INFO  resources.base - BasePage: Driver is Initialized
+18:24:14.270 [TestNG-tests-2] INFO  resources.base - BasePage: Driver is Initialized
+18:24:14.563 [TestNG-tests-1] INFO  resources.base - BasePage: Navigated to Home Page
+18:24:19.577 [TestNG-tests-1] INFO  resources.base - Non restricted user
+18:24:21.186 [TestNG-tests-1] INFO  resources.base - BasePage: Test Complete
+18:24:26.644 [TestNG-tests-1] INFO  resources.base - AppTitle: Driver is Initialized
+18:24:30.591 [TestNG-tests-3] INFO  resources.base - BasePage: Navigated to Home Page
+18:24:33.741 [TestNG-tests-2] INFO  resources.base - BasePage: Navigated to Home Page
+18:24:33.894 [TestNG-tests-3] INFO  resources.base - Non restricted user
+18:24:35.880 [TestNG-tests-3] INFO  resources.base - BasePage: Test Complete
+18:24:37.770 [TestNG-tests-2] INFO  resources.base - Non restricted user
+18:24:39.127 [TestNG-tests-2] INFO  resources.base - BasePage: Test Complete
+18:24:41.831 [TestNG-tests-3] INFO  resources.base - AppTitle: Driver is Initialized
+18:24:46.874 [TestNG-tests-2] INFO  resources.base - AppTitle: Driver is Initialized
+18:26:50.517 [TestNG-tests-3] INFO  resources.base - BasePage: Driver is Initialized
+18:26:50.517 [TestNG-tests-1] INFO  resources.base - BasePage: Driver is Initialized
+18:26:54.763 [TestNG-tests-2] INFO  resources.base - BasePage: Driver is Initialized
+18:27:19.185 [TestNG-tests-3] INFO  resources.base - BasePage: Navigated to Home Page
+18:27:22.085 [TestNG-tests-2] INFO  resources.base - BasePage: Navigated to Home Page
+18:27:23.237 [TestNG-tests-3] INFO  resources.base - Restrcited User
+18:27:24.855 [TestNG-tests-1] INFO  resources.base - BasePage: Navigated to Home Page
+18:27:25.036 [TestNG-tests-3] INFO  resources.base - BasePage: Test Complete
+18:27:27.180 [TestNG-tests-2] INFO  resources.base - Restrcited User
+18:27:28.964 [TestNG-tests-2] INFO  resources.base - BasePage: Test Complete
+18:27:29.386 [TestNG-tests-1] INFO  resources.base - Restrcited User
+18:27:30.795 [TestNG-tests-1] INFO  resources.base - BasePage: Test Complete
+18:27:34.347 [TestNG-tests-3] INFO  resources.base - BasePage: Driver is Initialized
+18:27:34.489 [TestNG-tests-1] INFO  resources.base - BasePage: Driver is Initialized
+18:27:39.184 [TestNG-tests-2] INFO  resources.base - BasePage: Driver is Initialized
+18:27:54.675 [TestNG-tests-3] INFO  resources.base - BasePage: Navigated to Home Page
+18:27:56.042 [TestNG-tests-1] INFO  resources.base - BasePage: Navigated to Home Page
+18:27:59.644 [TestNG-tests-3] INFO  resources.base - Non restricted user
+18:28:01.078 [TestNG-tests-1] INFO  resources.base - Non restricted user
+18:28:01.414 [TestNG-tests-3] INFO  resources.base - BasePage: Test Complete
+18:28:02.477 [TestNG-tests-1] INFO  resources.base - BasePage: Test Complete
+18:28:03.928 [TestNG-tests-1] INFO  resources.base - AppTitle: Driver is Initialized
+18:28:04.105 [TestNG-tests-3] INFO  resources.base - AppTitle: Driver is Initialized
+18:28:10.946 [TestNG-tests-2] INFO  resources.base - BasePage: Navigated to Home Page
+18:28:15.223 [TestNG-tests-2] INFO  resources.base - Non restricted user
+18:28:16.620 [TestNG-tests-2] INFO  resources.base - BasePage: Test Complete
+18:28:20.806 [TestNG-tests-2] INFO  resources.base - AppTitle: Driver is Initialized
+18:28:21.776 [TestNG-tests-1] INFO  resources.base - AppTitle: Navigated to Home Page
+18:28:27.776 [TestNG-tests-3] INFO  resources.base - AppTitle: Navigated to Home Page
+18:28:33.952 [TestNG-tests-1] INFO  resources.base - AppNavBar: Driver is Initialized
+18:28:34.084 [TestNG-tests-3] INFO  resources.base - AppNavBar: Driver is Initialized
+18:28:53.280 [TestNG-tests-1] INFO  resources.base - AppNavBar: Navigated to Home Page
+18:28:53.675 [TestNG-tests-1] INFO  resources.base - AppNavBar: Test completed
+18:29:01.050 [TestNG-tests-3] INFO  resources.base - AppNavBar: Navigated to Home Page
+18:29:01.466 [TestNG-tests-3] INFO  resources.base - AppNavBar: Test completed
+18:30:01.130 [TestNG-tests-2] INFO  resources.base - AppTitle: Navigated to Home Page
+18:30:20.505 [TestNG-tests-2] INFO  resources.base - AppNavBar: Driver is Initialized
+18:30:39.414 [TestNG-tests-2] INFO  resources.base - AppNavBar: Navigated to Home Page
+18:30:40.030 [TestNG-tests-2] INFO  resources.base - AppNavBar: Test completed
+18:32:34.543 [TestNG-tests-3] INFO  resources.base - BasePage: Driver is Initialized
+18:32:34.701 [TestNG-tests-1] INFO  resources.base - BasePage: Driver is Initialized
+18:32:40.415 [TestNG-tests-2] INFO  resources.base - BasePage: Driver is Initialized
+18:32:49.272 [TestNG-tests-3] INFO  resources.base - BasePage: Navigated to Home Page
+18:32:51.181 [TestNG-tests-2] INFO  resources.base - BasePage: Navigated to Home Page
+18:32:53.144 [TestNG-tests-3] INFO  resources.base - Restrcited User
+18:32:55.184 [TestNG-tests-3] INFO  resources.base - BasePage: Test Complete
+18:32:55.337 [TestNG-tests-1] INFO  resources.base - BasePage: Navigated to Home Page
+18:32:55.665 [TestNG-tests-2] INFO  resources.base - Restrcited User
+18:32:57.835 [TestNG-tests-2] INFO  resources.base - BasePage: Test Complete
+18:32:59.983 [TestNG-tests-1] INFO  resources.base - Restrcited User
+18:33:01.632 [TestNG-tests-1] INFO  resources.base - BasePage: Test Complete
+18:33:03.928 [TestNG-tests-1] INFO  resources.base - BasePage: Driver is Initialized
+18:33:04.493 [TestNG-tests-3] INFO  resources.base - BasePage: Driver is Initialized
+18:33:09.891 [TestNG-tests-2] INFO  resources.base - BasePage: Driver is Initialized
+18:33:18.619 [TestNG-tests-1] INFO  resources.base - BasePage: Navigated to Home Page
+18:33:22.626 [TestNG-tests-1] INFO  resources.base - Non restricted user
+18:33:24.130 [TestNG-tests-1] INFO  resources.base - BasePage: Test Complete
+18:33:24.399 [TestNG-tests-3] INFO  resources.base - BasePage: Navigated to Home Page
+18:33:27.926 [TestNG-tests-3] INFO  resources.base - Non restricted user
+18:33:28.565 [TestNG-tests-2] INFO  resources.base - BasePage: Navigated to Home Page
+18:33:29.653 [TestNG-tests-3] INFO  resources.base - BasePage: Test Complete
+18:33:32.915 [TestNG-tests-2] INFO  resources.base - Non restricted user
+18:33:34.139 [TestNG-tests-1] INFO  resources.base - AppTitle: Driver is Initialized
+18:33:34.431 [TestNG-tests-3] INFO  resources.base - AppTitle: Driver is Initialized
+18:33:35.392 [TestNG-tests-2] INFO  resources.base - BasePage: Test Complete
+18:33:47.423 [TestNG-tests-3] INFO  resources.base - AppTitle: Navigated to Home Page
+18:33:51.125 [TestNG-tests-2] INFO  resources.base - AppTitle: Driver is Initialized
+18:33:53.812 [TestNG-tests-1] INFO  resources.base - AppTitle: Navigated to Home Page
+18:34:03.905 [TestNG-tests-1] INFO  resources.base - AppNavBar: Driver is Initialized
+18:34:04.053 [TestNG-tests-3] INFO  resources.base - AppNavBar: Driver is Initialized
+18:34:10.157 [TestNG-tests-2] INFO  resources.base - AppTitle: Navigated to Home Page
+18:34:20.739 [TestNG-tests-2] INFO  resources.base - AppNavBar: Driver is Initialized
+18:34:21.577 [TestNG-tests-1] INFO  resources.base - AppNavBar: Navigated to Home Page
+18:34:22.045 [TestNG-tests-1] INFO  resources.base - AppNavBar: Test completed
+18:34:23.685 [TestNG-tests-3] INFO  resources.base - AppNavBar: Navigated to Home Page
+18:34:24.471 [TestNG-tests-3] INFO  resources.base - AppNavBar: Test completed
+18:34:39.380 [TestNG-tests-2] INFO  resources.base - AppNavBar: Navigated to Home Page
+18:34:40.068 [TestNG-tests-2] INFO  resources.base - AppNavBar: Test completed
+15:48:17.004 [TestNG-tests-1] INFO  resources.base - BasePage: Driver is Initialized
+15:48:28.733 [TestNG-tests-1] INFO  resources.base - BasePage: Driver is Initialized
+15:48:38.327 [TestNG-tests-1] INFO  resources.base - AppTitle: Driver is Initialized
+15:49:13.102 [TestNG-tests-1] INFO  resources.base - AppTitle: Navigated to Home Page
+15:49:28.837 [TestNG-tests-1] INFO  resources.base - AppNavBar: Driver is Initialized
+15:49:50.111 [TestNG-tests-1] INFO  resources.base - AppNavBar: Navigated to Home Page
+15:49:59.299 [TestNG-tests-1] INFO  resources.base - AppNavBar: Test completed
+12:57:56.928 [TestNG-tests-3] INFO  resources.base - BasePage: Driver is Initialized
+13:10:41.181 [TestNG-tests-1] INFO  resources.base - BasePage: Driver is Initialized
+13:18:24.791 [TestNG-tests-1] INFO  resources.base - BasePage: Driver is Initialized
+13:19:42.454 [TestNG-tests-1] INFO  resources.base - BasePage: Navigated to Home Page
+13:20:09.151 [TestNG-tests-1] INFO  resources.base - Restrcited User
+13:20:16.142 [TestNG-tests-1] INFO  resources.base - BasePage: Test Complete
+13:20:34.571 [TestNG-tests-1] INFO  resources.base - BasePage: Driver is Initialized
+13:21:18.647 [TestNG-tests-1] INFO  resources.base - BasePage: Navigated to Home Page
+13:22:03.830 [TestNG-tests-1] INFO  resources.base - Non restricted user
+13:22:10.525 [TestNG-tests-1] INFO  resources.base - BasePage: Test Complete
+13:22:36.562 [TestNG-tests-1] INFO  resources.base - AppTitle: Driver is Initialized
+13:23:14.442 [TestNG-tests-1] INFO  resources.base - AppTitle: Navigated to Home Page
+13:23:44.950 [TestNG-tests-1] INFO  resources.base - AppNavBar: Driver is Initialized
+13:41:45.809 [TestNG-test=Chrome Regression Test-3] INFO  resources.base - AppNavBar: Driver is Initialized
+13:57:43.968 [TestNG-test=Chrome Regression Test-2] INFO  resources.base - AppTitle: Driver is Initialized
+13:59:08.439 [TestNG-test=Chrome Regression Test-2] INFO  resources.base - AppTitle: Navigated to Home Page
+14:00:05.283 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - BasePage: Driver is Initialized
+14:00:30.860 [TestNG-test=Chrome Regression Test-3] INFO  resources.base - AppNavBar: Driver is Initialized
+14:18:09.952 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - BasePage: Driver is Initialized
+14:18:54.450 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - BasePage: Navigated to Home Page
+14:19:36.630 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - Restrcited User
+14:19:45.228 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - BasePage: Test Complete
+14:20:04.267 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - BasePage: Driver is Initialized
+14:21:45.234 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - BasePage: Navigated to Home Page
+14:22:29.535 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - Non restricted user
+14:22:36.328 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - BasePage: Test Complete
+17:34:29.748 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - BasePage: Driver is Initialized
+17:34:44.077 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - BasePage: Driver is Initialized
+17:41:57.429 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - BasePage: Driver is Initialized
+17:42:12.178 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - BasePage: Driver is Initialized
+17:48:59.615 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - BasePage: Driver is Initialized
+17:49:25.286 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - BasePage: Navigated to Home Page
+17:49:39.052 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - Restrcited User
+17:49:43.655 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - BasePage: Test Complete
+17:49:57.244 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - BasePage: Driver is Initialized
+17:50:38.243 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - BasePage: Navigated to Home Page
+17:51:00.327 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - Non restricted user
+17:51:05.135 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - BasePage: Test Complete
+17:54:42.086 [TestNG-test=Chrome Regression Test-2] INFO  resources.base - AppTitle: Driver is Initialized
+17:54:45.272 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - BasePage: Driver is Initialized
+18:03:53.726 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - BasePage: Driver is Initialized
+18:04:53.835 [TestNG-test=Chrome Regression Test-2] INFO  resources.base - AppTitle: Driver is Initialized
+18:45:16.881 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - BasePage: Driver is Initialized
+18:46:05.176 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - BasePage: Navigated to Home Page
+18:47:23.061 [TestNG-test=Chrome Regression Test-2] INFO  resources.base - AppTitle: Driver is Initialized
+18:47:25.350 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - BasePage: Driver is Initialized
+18:59:00.197 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - BasePage: Driver is Initialized
+18:59:03.170 [TestNG-test=Chrome Regression Test-2] INFO  resources.base - AppTitle: Driver is Initialized
+19:10:49.720 [TestNG-test=Chrome Regression Test-1] INFO  resources.base - BasePage: Driver is Initialized
+19:10:51.779 [TestNG-test=Chrome Regression Test-2] INFO  resources.base - AppTitle: Driver is Initialized
+19:22:36.266 [main] INFO  resources.base - BasePage: Driver is Initialized
+19:23:17.248 [main] INFO  resources.base - BasePage: Navigated to Home Page
+19:23:24.957 [main] INFO  resources.base - Restrcited User
+19:23:29.039 [main] INFO  resources.base - BasePage: Test Complete
+19:23:36.138 [main] INFO  resources.base - BasePage: Driver is Initialized
+19:24:00.065 [main] INFO  resources.base - BasePage: Navigated to Home Page
+19:24:09.745 [main] INFO  resources.base - Non restricted user
+19:24:13.249 [main] INFO  resources.base - BasePage: Test Complete
+19:24:19.273 [main] INFO  resources.base - AppTitle: Driver is Initialized
+19:24:35.949 [main] INFO  resources.base - AppTitle: Navigated to Home Page
+19:25:03.849 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+19:26:03.348 [main] INFO  resources.base - AppNavBar: Navigated to Home Page
+19:26:04.659 [main] INFO  resources.base - AppNavBar: Test completed
+19:47:52.729 [main] INFO  resources.base - BasePage: Driver is Initialized
+19:48:19.607 [main] INFO  resources.base - BasePage: Navigated to Home Page
+19:48:34.900 [main] INFO  resources.base - BasePage: Driver is Initialized
+19:48:52.671 [main] INFO  resources.base - BasePage: Navigated to Home Page
+19:48:58.039 [main] INFO  resources.base - Non restricted user
+19:49:00.138 [main] INFO  resources.base - BasePage: Test Complete
+19:49:03.863 [main] INFO  resources.base - AppTitle: Driver is Initialized
+19:49:18.486 [main] INFO  resources.base - AppTitle: Navigated to Home Page
+19:49:33.948 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+19:49:59.805 [main] INFO  resources.base - AppNavBar: Navigated to Home Page
+19:50:01.666 [main] INFO  resources.base - AppNavBar: Test completed
+19:55:20.146 [main] INFO  resources.base - BasePage: Driver is Initialized
+19:55:43.525 [main] INFO  resources.base - BasePage: Navigated to Home Page
+19:55:49.558 [main] INFO  resources.base - Restrcited User
+19:55:52.936 [main] INFO  resources.base - BasePage: Test Complete
+19:56:03.785 [main] INFO  resources.base - BasePage: Driver is Initialized
+19:56:28.200 [main] INFO  resources.base - BasePage: Navigated to Home Page
+19:56:49.074 [main] INFO  resources.base - AppTitle: Driver is Initialized
+19:57:11.847 [main] INFO  resources.base - AppTitle: Navigated to Home Page
+19:57:18.558 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+19:57:42.448 [main] INFO  resources.base - AppNavBar: Navigated to Home Page
+19:59:04.010 [main] INFO  resources.base - BasePage: Driver is Initialized
+19:59:32.432 [main] INFO  resources.base - BasePage: Navigated to Home Page
+19:59:40.748 [main] INFO  resources.base - Restrcited User
+19:59:43.830 [main] INFO  resources.base - BasePage: Test Complete
+19:59:48.961 [main] INFO  resources.base - BasePage: Driver is Initialized
+20:00:11.197 [main] INFO  resources.base - BasePage: Navigated to Home Page
+20:00:24.950 [main] INFO  resources.base - Non restricted user
+20:00:27.737 [main] INFO  resources.base - BasePage: Test Complete
+20:00:34.074 [main] INFO  resources.base - AppTitle: Driver is Initialized
+20:01:05.284 [main] INFO  resources.base - AppTitle: Navigated to Home Page
+20:01:19.364 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+20:01:45.559 [main] INFO  resources.base - AppNavBar: Navigated to Home Page
+20:01:55.442 [main] INFO  resources.base - AppNavBar: Test completed
+20:48:41.678 [main] INFO  resources.base - AppTitle: Driver is Initialized
+20:48:41.706 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+20:50:47.828 [main] INFO  resources.base - AppTitle: Driver is Initialized
+20:50:47.860 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+20:54:45.052 [main] INFO  resources.base - AppTitle: Driver is Initialized
+20:54:45.087 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+20:58:24.070 [main] INFO  resources.base - BasePage: Driver is Initialized
+20:58:42.090 [main] INFO  resources.base - BasePage: Navigated to Home Page
+20:59:07.074 [main] INFO  resources.base - BasePage: Driver is Initialized
+20:59:26.397 [main] INFO  resources.base - BasePage: Navigated to Home Page
+20:59:35.334 [main] INFO  resources.base - Non restricted user
+20:59:38.759 [main] INFO  resources.base - BasePage: Test Complete
+20:59:49.181 [main] INFO  resources.base - AppTitle: Driver is Initialized
+21:00:06.444 [main] INFO  resources.base - AppTitle: Navigated to Home Page
+21:00:33.975 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+21:00:52.443 [main] INFO  resources.base - AppNavBar: Navigated to Home Page
+21:00:56.814 [main] INFO  resources.base - AppNavBar: Test completed
+21:09:58.202 [main] INFO  resources.base - AppTitle: Driver is Initialized
+21:09:58.249 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+21:10:26.535 [main] INFO  resources.base - AppTitle: Driver is Initialized
+21:10:26.561 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+21:12:50.689 [main] INFO  resources.base - AppTitle: Driver is Initialized
+21:12:50.712 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+21:15:35.063 [main] INFO  resources.base - AppTitle: Driver is Initialized
+11:03:27.482 [main] INFO  resources.base - AppTitle: Driver is Initialized
+11:03:36.063 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+11:05:34.681 [main] INFO  resources.base - AppTitle: Driver is Initialized
+11:06:48.960 [main] INFO  resources.base - AppTitle: Navigated to Home Page
+11:07:20.022 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+11:07:57.785 [main] INFO  resources.base - AppNavBar: Navigated to Home Page
+11:08:01.199 [main] INFO  resources.base - AppNavBar: Test completed
+11:13:35.005 [main] INFO  resources.base - AppTitle: Driver is Initialized
+11:14:35.181 [main] INFO  resources.base - AppTitle: Navigated to Home Page
+11:15:04.965 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+11:16:25.535 [main] INFO  resources.base - AppNavBar: Navigated to Home Page
+11:28:10.238 [main] INFO  resources.base - AppTitle: Driver is Initialized
+11:28:31.168 [main] INFO  resources.base - AppTitle: Navigated to Home Page
+11:28:53.851 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+11:29:49.369 [main] INFO  resources.base - AppNavBar: Navigated to Home Page
+11:35:53.964 [main] INFO  resources.base - AppTitle: Driver is Initialized
+11:36:20.144 [main] INFO  resources.base - AppTitle: Navigated to Home Page
+11:36:37.868 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+11:36:53.888 [main] INFO  resources.base - AppNavBar: Navigated to Home Page
+11:37:19.653 [main] INFO  resources.base - AppNavBar: Test completed
+11:45:39.298 [main] INFO  resources.base - BasePage: Driver is Initialized
+11:45:58.268 [main] INFO  resources.base - BasePage: Navigated to Home Page
+11:46:06.328 [main] INFO  resources.base - Restrcited User
+11:46:11.746 [main] INFO  resources.base - BasePage: Test Complete
+11:46:22.762 [main] INFO  resources.base - BasePage: Driver is Initialized
+11:46:40.181 [main] INFO  resources.base - BasePage: Navigated to Home Page
+11:46:52.445 [main] INFO  resources.base - Non restricted user
+11:46:56.235 [main] INFO  resources.base - BasePage: Test Complete
+11:47:08.722 [main] INFO  resources.base - AppTitle: Driver is Initialized
+11:47:32.631 [main] INFO  resources.base - AppTitle: Navigated to Home Page
+11:47:53.145 [main] INFO  resources.base - AppNavBar: Driver is Initialized
+11:48:14.927 [main] INFO  resources.base - AppNavBar: Navigated to Home Page
+11:48:40.863 [main] INFO  resources.base - AppNavBar: Test completed

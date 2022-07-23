@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Project">
+  
+  <listeners>
+	<listener class-name="Academy.Listeners"/>
+  </listeners>
+
+ 
+  <test name="Chrome Regression Test">
+  
+  	
+  	
+  	<parameter name="browser" value="chrome"></parameter> 
+  	<parameter name="execution" value="grid"></parameter>
+  	<parameter name="port" value="66995"></parameter>
+  	
+  
+  	<groups>
+  		<run>
+  			<include name="Smoke"/>
+  		</run>
+  	</groups>
+  
+    <classes>
+      <class name="Academy.HomePage"/>
+      <class name="Academy.validateTitle"/>
+      <class name="Academy.validateNavigationBar"/>
+    </classes>
+  </test>
+  
+  <!-- <test name="Firefox Regression Test">
+    <parameter name="browser" value="firefox"></parameter>
+    <parameter name="execution" value="grid"></parameter>
+    <parameter name="port" value="65067"></parameter>
+    <classes>
+      <class name="Academy.HomePage"/>
+      <class name="Academy.validateTitle"/>
+      <class name="Academy.validateNavigationBar"/>
+    </classes>
+  </test>
+  
+  <test name="Edge Regression Test">
+    <parameter name="browser" value="edge"></parameter>
+    <parameter name="execution" value="grid"></parameter>
+    <parameter name="port" value="65067"></parameter>
+    <classes>
+      <class name="Academy.HomePage"/>
+      <class name="Academy.validateTitle"/>
+      <class name="Academy.validateNavigationBar"/>
+    </classes>
+  </test>   -->
+  
+</suite> 
