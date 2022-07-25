@@ -10,12 +10,9 @@
  
   <test name="Chrome Regression Test">
   
-  	
-  	
   	<parameter name="browser" value="chrome"></parameter> 
   	<parameter name="execution" value="grid"></parameter>
   	<parameter name="port" value="66995"></parameter>
-  	
   
   	<groups>
   		<run>

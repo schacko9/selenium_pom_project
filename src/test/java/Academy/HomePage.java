@@ -27,9 +27,8 @@ public class HomePage extends base{
 		
 
 		LandingPage land = new LandingPage(driver);
-		//if(land.getPopupSize()>0){
-			land.getPopup();
-		//}
+		land.getPopup();
+
 		
 		LoginPage login = land.getSignin(); 					// Get Login Page from Landing Page Page Object
 		login.getEmail(Username)					 			// Using Login Page Object to give email

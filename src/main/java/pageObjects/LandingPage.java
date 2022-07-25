@@ -18,7 +18,6 @@ public class LandingPage extends base {
 	@FindBy(css=".text-center>h2") WebElement title;
 	@FindBy(css=".nav.navbar-nav.navbar-right>li>a") WebElement NavBar;
 	@FindBy(css="[href*='password/new/index.php']") WebElement forgotPassword;
-	@FindBy(xpath="//button[contains(text(), 'NO THANKS')]") List<WebElement> popupSize;
 	@FindBy(xpath="//button[contains(text(), 'NO THANKS')]") WebElement popup;
 
 	
@@ -41,10 +40,6 @@ public class LandingPage extends base {
 	
 	public String getTitle(){
 		return get_Text(title);
-	}
-	
-	public int getPopupSize(){
-		return get_Size(popupSize);
 	}
 	
 	public void getPopup(){

@@ -25,9 +25,8 @@ public class validateTitle extends base{
 
 
 		LandingPage land = new LandingPage(driver);
-		//if(land.getPopupSize()>0){
-			land.getPopup();
-		//}
+		land.getPopup();
+		
 		
 		try {
 			String title = land.getTitle();

@@ -24,9 +24,8 @@ public class validateNavigationBar extends base{
 		log.info("AppNavBar: Navigated to Home Page");
 		
 		LandingPage land = new LandingPage(driver);
-		//if(land.getPopupSize()>0){
-			land.getPopup();
-		//}
+		land.getPopup();
+		
 		
 	    Assert.assertTrue(land.getNavigationBar().isDisplayed());				// Compare the text from the browser with actual text.
 	    	log.info("AppNavBar: Test completed");
